@@ -1,5 +1,5 @@
 **/*.js
-.eslintrc.cjs
+*.cjs
 node_modules
 build
 /src/react-app-env.d.ts
